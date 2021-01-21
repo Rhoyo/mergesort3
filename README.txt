@@ -5,11 +5,11 @@ Language: C++
 Compile: g++ std=c++11
 
 
-Part 1:
+Part 1(Sorting with mergesort3):
 	
 	Run: merge3 for merge3.cpp (This is the mergesort3 algorithm)
 
-Part 2:
+Part 2(Runtimes):
 	
 	Run: tMerge for tMerge.cpp (This is normal mergesort algorithm)
 
